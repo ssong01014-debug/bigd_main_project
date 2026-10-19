@@ -1,5 +1,5 @@
 import matplotlib.pyplot as plt
-plt.rcParams["font.family"] = "Malgun Gothic" #윈도우는 Malgun Gothic
+plt.rcParams["font.family"] = "Malgun Gothic" 
 temperature = [27, 20, 19, 20, 23]
 
 fig, ax = plt.subplots(figsize=(7, 4))
